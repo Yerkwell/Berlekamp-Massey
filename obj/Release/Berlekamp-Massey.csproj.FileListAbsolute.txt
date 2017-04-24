@@ -1,0 +1,9 @@
+C:\Users\romch_000\Documents\Visual Studio 2013\Projects\Berlekamp-Massey\bin\Release\Berlekamp-Massey.exe.config
+C:\Users\romch_000\Documents\Visual Studio 2013\Projects\Berlekamp-Massey\bin\Release\Berlekamp-Massey.exe
+C:\Users\romch_000\Documents\Visual Studio 2013\Projects\Berlekamp-Massey\bin\Release\Berlekamp-Massey.pdb
+C:\Users\romch_000\Documents\Visual Studio 2013\Projects\Berlekamp-Massey\obj\Release\Berlekamp-Massey.csprojResolveAssemblyReference.cache
+C:\Users\romch_000\Documents\Visual Studio 2013\Projects\Berlekamp-Massey\obj\Release\Berlekamp_Massey.Form1.resources
+C:\Users\romch_000\Documents\Visual Studio 2013\Projects\Berlekamp-Massey\obj\Release\Berlekamp_Massey.Properties.Resources.resources
+C:\Users\romch_000\Documents\Visual Studio 2013\Projects\Berlekamp-Massey\obj\Release\Berlekamp-Massey.csproj.GenerateResource.Cache
+C:\Users\romch_000\Documents\Visual Studio 2013\Projects\Berlekamp-Massey\obj\Release\Berlekamp-Massey.exe
+C:\Users\romch_000\Documents\Visual Studio 2013\Projects\Berlekamp-Massey\obj\Release\Berlekamp-Massey.pdb
